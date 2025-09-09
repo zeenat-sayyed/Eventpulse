@@ -1,12 +1,13 @@
 # EventPulse
-EventPulse is an event management app.
 
-## Features
+EventPulse is an event managementbapp.
+
+## Features 
 - Create and manage events
 - User login and registration
 - Simple and responsive UI
 
 ## Tech Used
-- React 
-- Thaiwind CSS
-- Node.js (Backend)
+- React
+- Tailwind CSS
+- Node.js (Backend) 
